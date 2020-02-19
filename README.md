@@ -19,7 +19,7 @@ Dark Breeze theme for iTerm2
 License
 -------
 
-This is published via the [MIT License]().
+This is published via the [MIT License](https://github.com/jasonliuuu/iterm2-dark-breeze/blob/master/LICENSE).
 
 * * * * *
 
