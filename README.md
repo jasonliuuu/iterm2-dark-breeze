@@ -25,6 +25,6 @@ This is published via the [MIT License](https://github.com/jasonliuuu/iterm2-dar
 
 **iterm2-dark-breeze** ©Jason Liu. Released under the MIT License.
 
-Authored and maintained by Spencer Woo.
+Authored and maintained by Jason Liu.
 
  [@GitHub](https://github.com/jasonliuuu)
